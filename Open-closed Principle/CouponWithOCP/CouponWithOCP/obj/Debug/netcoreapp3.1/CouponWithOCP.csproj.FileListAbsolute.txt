@@ -1,0 +1,13 @@
+I:\AMIKOM\sem 3\pemrog\Open-closed Principle\CouponWithOCP\CouponWithOCP\obj\Debug\netcoreapp3.1\CouponWithOCP.csprojAssemblyReference.cache
+I:\AMIKOM\sem 3\pemrog\Open-closed Principle\CouponWithOCP\CouponWithOCP\obj\Debug\netcoreapp3.1\CouponWithOCP.csproj.CoreCompileInputs.cache
+I:\AMIKOM\sem 3\pemrog\Open-closed Principle\CouponWithOCP\CouponWithOCP\obj\Debug\netcoreapp3.1\CouponWithOCP.AssemblyInfoInputs.cache
+I:\AMIKOM\sem 3\pemrog\Open-closed Principle\CouponWithOCP\CouponWithOCP\obj\Debug\netcoreapp3.1\CouponWithOCP.AssemblyInfo.cs
+I:\AMIKOM\sem 3\pemrog\Open-closed Principle\CouponWithOCP\CouponWithOCP\bin\Debug\netcoreapp3.1\CouponWithOCP.exe
+I:\AMIKOM\sem 3\pemrog\Open-closed Principle\CouponWithOCP\CouponWithOCP\bin\Debug\netcoreapp3.1\CouponWithOCP.deps.json
+I:\AMIKOM\sem 3\pemrog\Open-closed Principle\CouponWithOCP\CouponWithOCP\bin\Debug\netcoreapp3.1\CouponWithOCP.runtimeconfig.json
+I:\AMIKOM\sem 3\pemrog\Open-closed Principle\CouponWithOCP\CouponWithOCP\bin\Debug\netcoreapp3.1\CouponWithOCP.runtimeconfig.dev.json
+I:\AMIKOM\sem 3\pemrog\Open-closed Principle\CouponWithOCP\CouponWithOCP\bin\Debug\netcoreapp3.1\CouponWithOCP.dll
+I:\AMIKOM\sem 3\pemrog\Open-closed Principle\CouponWithOCP\CouponWithOCP\bin\Debug\netcoreapp3.1\CouponWithOCP.pdb
+I:\AMIKOM\sem 3\pemrog\Open-closed Principle\CouponWithOCP\CouponWithOCP\obj\Debug\netcoreapp3.1\CouponWithOCP.dll
+I:\AMIKOM\sem 3\pemrog\Open-closed Principle\CouponWithOCP\CouponWithOCP\obj\Debug\netcoreapp3.1\CouponWithOCP.pdb
+I:\AMIKOM\sem 3\pemrog\Open-closed Principle\CouponWithOCP\CouponWithOCP\obj\Debug\netcoreapp3.1\CouponWithOCP.genruntimeconfig.cache
