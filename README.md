@@ -1,13 +1,11 @@
-# Open-closed-Principle
-Open-closed Principle
 # Open Closed Principle
 ## 19.11.2731
 
 ## 1. Class Diagram 
 ### Coupon Without OCP 
-![Class Diagram Coupon Without O C P](CouponWithoutOCP/ClassDiagramCouponWithoutOCP.png)
+![Class Diagram Coupon Without O C P](CouponWithoutOCP/CouponWithoutOCP/ClassDiagramCouponWithoutOCP.png)
 ### Coupon With OCP
-![Class Diagram Coupon Witht O C P](../CouponWithOCP/CouponWithOCP/ClassDiagramCouponWithtOCP.png)
+![Class Diagram Coupon Witht O C P](CouponWithOCP/CouponWithOCP/ClassDiagramCouponWithtOCP.png)
 
 ## 2. Penjelasan CouponWithout OCP
 Didalam program ini semua logic untuk mengatur diskon baik nominal, persen dan cashback terdapat dalam satu class yang sama yaitu `Coupon.cs`
